@@ -1,4 +1,4 @@
-// Remove the "use client" directive
+"use client"
 import { useState } from "react";
 
 export default function App() {
